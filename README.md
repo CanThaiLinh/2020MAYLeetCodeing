@@ -2,7 +2,7 @@
 
 30 Days Leetcoding Challenge Solutions 
 
-[Link to challenge] (https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
+[Link to challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
 # Solution
 
