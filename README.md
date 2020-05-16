@@ -6,9 +6,9 @@
 
 # Solution
 
-## Weak 1
+## Week 1
 
-[Link all solutions of Weak 1 challenge](https://github.com/CanThaiLinh/2020MAYLeetCodeing/tree/master/Week1)
+[Link all solutions of Week 1 challenge](https://github.com/CanThaiLinh/2020MAYLeetCodeing/tree/master/Week1)
 
 
 Number | Problem Challenge | Solution
@@ -21,15 +21,24 @@ Number | Problem Challenge | Solution
 6 | [Majoirity Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Swift and C++](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week1/6MajoirityElement.swift)
 7 | [Cousins In Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week1/7CousinsInBinaryTree.swift)
 
-## Weak 2
-[Link solutions of Weak 2 challenge](https://github.com/CanThaiLinh/2020MAYLeetCodeing/tree/master/Weak2)
+## Week 2
+[Link solutions of week 2 challenge](https://github.com/CanThaiLinh/2020MAYLeetCodeing/tree/master/Week2)
 
 Number | Problem Challenge | Solution
 ------- | ------- | --------
-8 | [Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/8StraightLine.swift)
-9 | [Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/9Sqaure.swift)
-10| [Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/10TownJudge.swift)
-11 | [FloodFill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/11FloodFill.swift)
-12| [Single Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/12SingleElement.swift)
-13| [Remove K Digit](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/13RemoveKDigit.swift)
-14| [Trie Prefix Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Weak2/14Trie.swift)
+8 | [Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/8StraightLine.swift)
+9 | [Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/9Sqaure.swift)
+10| [Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/10TownJudge.swift)
+11 | [FloodFill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/11FloodFill.swift)
+12| [Single Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/12SingleElement.swift)
+13| [Remove K Digit](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/13RemoveKDigit.swift)
+14| [Trie Prefix Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week2/14Trie.swift)
+
+
+## Week 3
+[Link solutions of Week 3 challenge](https://github.com/CanThaiLinh/2020MAYLeetCodeing/tree/master/Week3)
+
+Number | Problem Challenge | Solution
+------- | ------- | --------
+15 | [Maximum Sum Circular Subarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCodeing/blob/master/Week3/15MaximumSumCircularSubarray.swift)
+
