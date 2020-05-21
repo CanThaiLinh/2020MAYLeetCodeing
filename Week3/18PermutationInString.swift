@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  StockPrices
+//  
 //
 //  Created by thailinh on 5/19/20.
 //  Copyright © 2020 thailinh. All rights reserved.
