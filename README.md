@@ -47,3 +47,11 @@ Number | Problem Challenge | Solution
 19 | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week3/19OnlineStockSpan.swift)
 20 | [Kth Smallest Element in a BST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week3/20KSmallestElementInBST.swift)
 21 | [Count Square Submatrices with All Ones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week3/21CountSquareSubmatricesWithAllOnes.swift)
+
+
+## Week 4
+[Link solutions of Week 4 challenge](https://github.com/CanThaiLinh/2020MAYLeetCoding/tree/master/Week4)
+
+Number | Problem Challenge | Solution
+------- | ------- | --------
+22 | [Sort Characters By Frequency](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/22SortCharacterByFrequency.swift)
