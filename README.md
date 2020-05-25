@@ -55,3 +55,5 @@ Number | Problem Challenge | Solution
 Number | Problem Challenge | Solution
 ------- | ------- | --------
 22 | [Sort Characters By Frequency](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/22SortCharacterByFrequency.swift)
+23 | [Interval List Intersections](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/23IntervalListIntersections.swift)
+24 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/24ConstructBinarySearchTreeFromPreorderTraversal.swift)
