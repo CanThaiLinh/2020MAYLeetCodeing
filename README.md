@@ -1,6 +1,6 @@
 # 2020MAYLeetCoding
 
-30 Days Leetcoding Challenge Solutions 
+30 Days Leetcoding Challenge Solutions May Leet Code 2020
 
 [Link to challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
@@ -59,3 +59,4 @@ Number | Problem Challenge | Solution
 24 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/24ConstructBinarySearchTreeFromPreorderTraversal.swift)
 25 | [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/25UncrossedLines.swift)
 26 | [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/26ContiguousArray.swift)
+27 | [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/) | [Swift](https://github.com/CanThaiLinh/2020MAYLeetCoding/blob/master/Week4/27PossibleBipartition.swift)
